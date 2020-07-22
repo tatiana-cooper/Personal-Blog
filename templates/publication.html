@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block title %}Publication — {{ publication.title }}{% endblock %}
+
+{% block content %}
+    <h2>{{ publication.title }}</h2>
+    <i>{{ publication.date }}</i>
+    <p>{{ publication.text|safe }}<p/>
+{% endblock %}
+
