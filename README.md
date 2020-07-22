@@ -8,11 +8,11 @@
 
 *In this project I mastered:*
 
-- Python
-- Django
-- Sqlite3
-- HTML
-- ngrok
+**Python**<br>
+**Django**<br>
+**Sqlite3**<br>
+**HTML**<br>
+**ngrok**<br>
 
 
 ## Files
@@ -25,7 +25,8 @@ In web folder was created:
 >views — contains code that handles all pages' requests.
 
 
-The *my_project/my_project* folder, *my_project/db.sqlite3*, and *my_project/manage.py* were created automatically by Django.
+The `my_project/my_project` folder, `my_project/db.sqlite3`, and `my_project/manage.py` were created automatically by Django.<br>
+The folder `templates/` contains HTML pages.<br>
 
 ## Installation
 
