@@ -39,7 +39,7 @@ Clone this repo to your local machine using  `https://github.com/tatiana-cooper/
 
 Windows 10:
 
-For lunching server:
+For launching server:
 ```sh
 > python my_project/manage.py runserver
 ```
