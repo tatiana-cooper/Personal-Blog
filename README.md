@@ -29,7 +29,7 @@ The `my_project/my_project` folder, `my_project/db.sqlite3`, and `my_project/man
 The folder `templates/` contains HTML pages.<br>
 
 ## Installation
-App requires Python 3+.<br>
+Project requires Python 3+.<br>
 
 ### Clone
 
