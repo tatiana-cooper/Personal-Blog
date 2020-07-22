@@ -33,7 +33,7 @@ Messenger requires Python 3.<br>
 
 ### Clone
 
--   Clone this repo to your local machine using  `https://github.com/tatiana-cooper/Personal-Blog.git`
+Clone this repo to your local machine using  `https://github.com/tatiana-cooper/Personal-Blog.git`
 
 ### Setup
 
