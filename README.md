@@ -6,7 +6,7 @@
 ![image](https://drive.google.com/uc?export=view&id=18kNsWC3sxIPeEEuWTr_sHa7kNnXmDccX)
 
 
-*In this project I mastered:*
+In this project I mastered:
 
 **Python**<br>
 **Django**<br>
