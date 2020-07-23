@@ -16,7 +16,7 @@ In this project I mastered:
 
 
 ## Files
-All components are in the *my_project folder*.
+All components are in the `my_project/` folder.
 In web folder was created:
 > models.py — this file contains code to manipulate with database.
 
