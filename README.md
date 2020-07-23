@@ -56,4 +56,4 @@ For launching server:
 
 ---
 
-> *This project was created during "How to became web-developer" intensive classes by Skillbox University.*
+> *This project was created during "How to become web-developer" intensive classes by Skillbox University.*
